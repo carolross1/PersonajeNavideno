@@ -45,6 +45,7 @@ El dispositivo se puede comunicarcon el telefono desde el cual se puede manejar 
 ## Códigos del proyecto
 ## Imágenes y videos del proyecto
 ![Imagen de WhatsApp 2024-11-30 a las 23 03 11_d505bd2e](https://github.com/user-attachments/assets/c834e061-4f72-4167-a31f-2fa0c75d1354)
+https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=drive_link
 
 
 
