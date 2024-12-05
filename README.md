@@ -43,9 +43,25 @@ Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la
 ## Comunicación:
 El dispositivo se puede comunicarcon el telefono desde el cual se puede manejar el movimineto de las estrella del árbol navideño y el usuarion también puede enviar un mensaje desde el telefono, mensaje que posteriormente aparecera en la matriz de LEDs.
 ## Códigos del proyecto
+https://drive.google.com/drive/folders/1ygDu8JqCnvvL3d-Gv-54EgSyaAyg7j8d?usp=sharing
 ## Imágenes y videos del proyecto
 ![Imagen de WhatsApp 2024-11-30 a las 23 03 11_d505bd2e](https://github.com/user-attachments/assets/c834e061-4f72-4167-a31f-2fa0c75d1354)
 https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=drive_link
+## Curso JavaScript
+![image](https://github.com/user-attachments/assets/6d1542df-615c-4cd4-a8cc-dbc96e6fdfef)
+![image](https://github.com/user-attachments/assets/2e807d19-5520-492f-84bc-ea213d01f29d)
+![image](https://github.com/user-attachments/assets/97585c53-89aa-4557-a172-0dba2d221170)
+![image](https://github.com/user-attachments/assets/5d64623a-c7da-4378-96b4-9e6b78fb6a47)
+![image](https://github.com/user-attachments/assets/5a155c98-d097-42ed-bcbf-f40382906f63)
+![image](https://github.com/user-attachments/assets/8ace8d77-ebce-4a4a-aded-3e461ab5ac5d)
+![image](https://github.com/user-attachments/assets/fd7cd7e1-bfa9-4af1-95a0-3e472c63e3f6)
+
+
+
+
+
+
+
 
 
 
