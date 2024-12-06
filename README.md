@@ -47,6 +47,9 @@ https://drive.google.com/drive/folders/1ygDu8JqCnvvL3d-Gv-54EgSyaAyg7j8d?usp=sha
 ## Imágenes y videos del proyecto
 ![Imagen de WhatsApp 2024-11-30 a las 23 03 11_d505bd2e](https://github.com/user-attachments/assets/c834e061-4f72-4167-a31f-2fa0c75d1354)
 https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=drive_link
+## TikTok
+https://vm.tiktok.com/ZMkRNgjYM/
+
 ## Curso JavaScript
 ![image](https://github.com/user-attachments/assets/6d1542df-615c-4cd4-a8cc-dbc96e6fdfef)
 ![image](https://github.com/user-attachments/assets/2e807d19-5520-492f-84bc-ea213d01f29d)
