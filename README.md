@@ -9,8 +9,9 @@
 El personaje de Santa Claus detectará la presencia de una persona cercana utilizando un sensor de ultrasonido. Cuando esto ocurra, activará una serie de acciones:
 Movimiento de la mano: La mano del personaje se moverán en un gesto de saludo, gracias a un servomotor conectado a su brazo.
 Reproducción de música: Comenzará a sonar música navideña a través de un buzzer.
-Luces LED: Se encenderá una tira de luces LED que parpadearán o cambiarán de patrón, creando un ambiente festivo.
-Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la punta de un árbol girara en sentido del reloj.
+Luces LED: Se encenderá una tira de luces LED que parpadearán o cambiarán de patrón, creando un ambiente festivo. Ademas se encendera una matriz de leds donde mostrara mensajes enviados desde un dashboard.
+Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la punta de un árbol girara en sentido del reloj, esta por comunicacion por node-red.
+Pin táctil: Se encendera un led rojo cuando se toque la punta de un cable.
 
 ## Materiales a utilizar:
 |Material | Imagen | Cantidad |Precio |
@@ -19,7 +20,7 @@ Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la
 |HC-SR04|<img src="https://github.com/user-attachments/assets/9ce1ec8d-9693-4492-8e09-ec2d587b93c4" width="150"/>|1|50|
 |Servomotores SG90 o MG90S|<img src="https://github.com/user-attachments/assets/c0f78d9a-c8d4-4d4b-a7f6-1887cbb1a4ab" width="150"/>|2|80|
 |Tira de LEDs|<img src="https://github.com/user-attachments/assets/2c62ea32-6399-4297-a866-6490cfb6e4cf" width="150"/>|60 leds|60|
-|Módulo de sonido DFPlayer Mini|<img src="https://github.com/user-attachments/assets/4ebffb24-e643-476a-b1f6-adb798018268" width="150"/>|1|95|
+|Módulo de zumbador pasivo|<img src="https://github.com/user-attachments/assets/4ebffb24-e643-476a-b1f6-adb798018268" width="150"/>|1|30|
 |Tela roja|<img src="https://github.com/user-attachments/assets/48ce2eaf-d0e6-4fba-9d77-3ce5dac5de6d" width="150"/>|1m|50|
 |Tela blanca|<img src="https://github.com/user-attachments/assets/c437d47e-35e0-4953-abc7-fd8e4871059b" width="150"/>|1m|70|
 |Algodon|<img src="https://github.com/user-attachments/assets/2eeb77f7-5cd0-4787-9f36-b394d1de48a4" width="150"/>|3 pzas|70|
@@ -28,6 +29,12 @@ Moviemiento de estrella: Con un motor a pasos la estrella que se encuentra en la
 |Escarcha|<img src="https://http2.mlstatic.com/D_NQ_NP_611748-MLM72901944016_112023-O.webp" width="150"/>|1m|20|
 |Mini esferas|<img src="https://i5.walmartimages.com/asr/c6764503-1920-471a-a814-339a90aafb00.7566fb8a31f35ef5ac87f7fd1d37102d.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF" width="150"/>|10pz|30|
 |Motor a pasos|<img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/19465b474/motor-a-pasos-de-4-lineas-de-control-5-vcc.jpg" width="150"/>|1pz|60|
+|Liston negro|<img src="https://github.com/user-attachments/assets/ddd781c0-ffed-496f-9f59-83aee0bcc031" width="120"/>|1|10|
+|Triplay|<img src="https://github.com/user-attachments/assets/b7b73865-d9c4-4c3c-8fef-ff5f62d41a23" width="150"/>|1|60|
+|Pistola de silicon|<img src="https://github.com/user-attachments/assets/45cefb54-cbfb-4076-a480-f5fd20e9e669" width="150"/>|1|80|
+|Tijeras|<img src="https://github.com/user-attachments/assets/f50afda1-5c14-4f1c-a6b3-03c71508b6b5" width="150"/>|1|20|
+|Cables|<img src="https://github.com/user-attachments/assets/18a62ae5-7904-4dab-a412-6aa2bd50b7ef" width="150"/>|90|90|
+|Cable USB|<img src="https://github.com/user-attachments/assets/834f603d-1e84-46f3-9c84-c6b19f223014" width="150"/>|4|80|
 ## Software a utilizar:
 |Software |  
 |--|
@@ -49,6 +56,7 @@ https://drive.google.com/drive/folders/1ygDu8JqCnvvL3d-Gv-54EgSyaAyg7j8d?usp=sha
 https://drive.google.com/drive/folders/1mijs1IMsox0HDv6k4MrcMtU65szoI0vx?usp=drive_link
 ## TikTok
 https://vm.tiktok.com/ZMkRNgjYM/
+https://vm.tiktok.com/ZMkRj2cuh/
 
 ## Curso JavaScript
 ![image](https://github.com/user-attachments/assets/6d1542df-615c-4cd4-a8cc-dbc96e6fdfef)
